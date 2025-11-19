@@ -14,6 +14,7 @@ export const translations = {
     },
     projects: {
       title: "Projetos",
+      infinit: "Chat em tempo real com funcionalidades de chamada de vídeo e personalização de perfil. Conecte-se com outros usuários instantaneamente.",
       hamburgueria: "Aplicação de uma simulação de um website de venda de lanches.",
       generic: "Aplicação de uma simulação de um website de venda de cursos.",
       crud: "API de produtos."
@@ -35,6 +36,7 @@ export const translations = {
     },
     projects: {
       title: "Projects",
+      infinit: "Real-time chat with video call features and profile customization. Connect with other users instantly.",
       hamburgueria: "Simulation application of a snack sales website.",
       generic: "Simulation application of a course sales website.",
       crud: "Product API."
@@ -56,6 +58,7 @@ export const translations = {
     },
     projects: {
       title: "Proyectos",
+      infinit: "Chat en tiempo real con funciones de videollamada y personalización de perfil. Conéctate con otros usuarios al instante.",
       hamburgueria: "Aplicación de simulación de un sitio web de venta de bocadillos.",
       generic: "Aplicación de simulación de un sitio web de venta de cursos.",
       crud: "API de productos."
@@ -77,6 +80,7 @@ export const translations = {
     },
     projects: {
       title: "プロジェクト",
+      infinit: "ビデオ通話機能とプロフィールのカスタマイズを備えたリアルタイムチャット。他のユーザーと即座に接続できます。",
       hamburgueria: "スナック販売ウェブサイトのシミュレーションアプリケーション。",
       generic: "コース販売ウェブサイトのシミュレーションアプリケーション。",
       crud: "製品API。"

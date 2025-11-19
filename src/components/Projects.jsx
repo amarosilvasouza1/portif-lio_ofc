@@ -7,6 +7,12 @@ const Projects = () => {
 
   const projects = [
     {
+      title: "Infinit",
+      description: t.projects.infinit,
+      tech: ["React.js", "Node.js", "Socket.io", "WebRTC"],
+      link: "https://infinit-ofc.vercel.app"
+    },
+    {
       title: "Hamburgueria",
       description: t.projects.hamburgueria,
       tech: ["React.js", "HTML", "SCSS"],
