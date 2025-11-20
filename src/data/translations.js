@@ -17,7 +17,8 @@ export const translations = {
       infinit: "Chat em tempo real com funcionalidades de chamada de vídeo e personalização de perfil. Conecte-se com outros usuários instantaneamente.",
       hamburgueria: "Aplicação de uma simulação de um website de venda de lanches.",
       generic: "Aplicação de uma simulação de um website de venda de cursos.",
-      crud: "API de produtos."
+      crud: "API de produtos.",
+      adopcao: "Landing page de incentivo à adoção animal. Totalmente responsiva para PC, tablet e telefone."
     },
     footer: { rights: "Todos os direitos reservados." }
   },
@@ -39,7 +40,8 @@ export const translations = {
       infinit: "Real-time chat with video call features and profile customization. Connect with other users instantly.",
       hamburgueria: "Simulation application of a snack sales website.",
       generic: "Simulation application of a course sales website.",
-      crud: "Product API."
+      crud: "Product API.",
+      adopcao: "Animal adoption incentive landing page. Fully responsive for PC, tablet, and phone."
     },
     footer: { rights: "All rights reserved." }
   },
@@ -61,7 +63,8 @@ export const translations = {
       infinit: "Chat en tiempo real con funciones de videollamada y personalización de perfil. Conéctate con otros usuarios al instante.",
       hamburgueria: "Aplicación de simulación de un sitio web de venta de bocadillos.",
       generic: "Aplicación de simulación de un sitio web de venta de cursos.",
-      crud: "API de productos."
+      crud: "API de productos.",
+      adopcao: "Landing page de incentivo a la adopción de animales. Totalmente responsiva para PC, tableta y teléfono."
     },
     footer: { rights: "Todos los derechos reservados." }
   },
@@ -83,7 +86,8 @@ export const translations = {
       infinit: "ビデオ通話機能とプロフィールのカスタマイズを備えたリアルタイムチャット。他のユーザーと即座に接続できます。",
       hamburgueria: "スナック販売ウェブサイトのシミュレーションアプリケーション。",
       generic: "コース販売ウェブサイトのシミュレーションアプリケーション。",
-      crud: "製品API。"
+      crud: "製品API。",
+      adopcao: "動物の養子縁組を奨励するランディングページ。PC、タブレット、電話に完全に対応しています。"
     },
     footer: { rights: "無断転載を禁じます。" }
   }

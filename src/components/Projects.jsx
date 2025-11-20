@@ -29,6 +29,12 @@ const Projects = () => {
       description: t.projects.crud,
       tech: ["JavaScript", "TypeScript", "Node.js"],
       link: "https://github.com/Kenzie-Academy-Brasil-Developers/m4-template-entrega1_Amao-silva"
+    },
+    {
+      title: "Adoção",
+      description: t.projects.adopcao,
+      tech: ["JavaScript", "HTML", "CSS"],
+      link: "https://ado-ao.vercel.app/"
     }
   ];
 
