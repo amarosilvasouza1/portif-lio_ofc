@@ -7,7 +7,7 @@ const Skills = () => {
   const techSkills = [
     "TypeScript", "JavaScript", "React.js", "Node.js",
     "HTML", "CSS", "SCSS", "Python", "Java", "Spring Boot", "LLM",
-    "PostgreSQL", "MySQL", "Prisma"
+    "PostgreSQL", "MySQL", "Prisma", "Firebase"
   ];
 
   const softSkills = [

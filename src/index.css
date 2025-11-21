@@ -105,4 +105,12 @@ h3 { font-size: 1.5rem; font-weight: 600; }
   h1 { font-size: 2.5rem; }
   h2 { font-size: 2rem; }
   section { padding: 60px 0; }
+  .container { padding: 0 15px; }
+}
+
+@media (max-width: 480px) {
+  h1 { font-size: 2rem; }
+  h2 { font-size: 1.75rem; }
+  section { padding: 40px 0; }
+  .glass-panel { padding: 1.5rem !important; }
 }
