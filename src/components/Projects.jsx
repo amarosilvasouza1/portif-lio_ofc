@@ -35,6 +35,12 @@ const Projects = () => {
       description: t.projects.adopcao,
       tech: ["JavaScript", "HTML", "CSS"],
       link: "https://ado-ao.vercel.app/"
+    },
+    {
+      title: "BookVerse",
+      description: t.projects.bookverse,
+      tech: ["Next.js 16", "React 19", "TypeScript", "Tailwind 4", "Prisma", "MySQL", "Gemini AI"],
+      link: "https://bookverse-red.vercel.app"
     }
   ];
 

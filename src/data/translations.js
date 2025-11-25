@@ -18,7 +18,8 @@ export const translations = {
       hamburgueria: "Aplicação de uma simulação de um website de venda de lanches.",
       generic: "Aplicação de uma simulação de um website de venda de cursos.",
       crud: "API de produtos.",
-      adopcao: "Landing page de incentivo à adoção animal. Totalmente responsiva para PC, tablet e telefone."
+      adopcao: "Landing page de incentivo à adoção animal. Totalmente responsiva para PC, tablet e telefone.",
+      bookverse: "Plataforma completa de publicação e leitura de livros com IA generativa (Gemini), assinaturas e comunidades. Desenvolvida com Next.js 16, React 19 e MySQL."
     },
     footer: { rights: "Todos os direitos reservados." }
   },
@@ -41,7 +42,8 @@ export const translations = {
       hamburgueria: "Simulation application of a snack sales website.",
       generic: "Simulation application of a course sales website.",
       crud: "Product API.",
-      adopcao: "Animal adoption incentive landing page. Fully responsive for PC, tablet, and phone."
+      adopcao: "Animal adoption incentive landing page. Fully responsive for PC, tablet, and phone.",
+      bookverse: "Complete book publishing and reading platform with generative AI (Gemini), subscriptions, and communities. Built with Next.js 16, React 19, and MySQL."
     },
     footer: { rights: "All rights reserved." }
   },
@@ -64,7 +66,8 @@ export const translations = {
       hamburgueria: "Aplicación de simulación de un sitio web de venta de bocadillos.",
       generic: "Aplicación de simulación de un sitio web de venta de cursos.",
       crud: "API de productos.",
-      adopcao: "Landing page de incentivo a la adopción de animales. Totalmente responsiva para PC, tableta y teléfono."
+      adopcao: "Landing page de incentivo a la adopción de animales. Totalmente responsiva para PC, tableta y teléfono.",
+      bookverse: "Plataforma completa de publicación y lectura de libros con IA generativa (Gemini), suscripciones y comunidades. Desarrollada con Next.js 16, React 19 y MySQL."
     },
     footer: { rights: "Todos los derechos reservados." }
   },
@@ -87,7 +90,8 @@ export const translations = {
       hamburgueria: "スナック販売ウェブサイトのシミュレーションアプリケーション。",
       generic: "コース販売ウェブサイトのシミュレーションアプリケーション。",
       crud: "製品API。",
-      adopcao: "動物の養子縁組を奨励するランディングページ。PC、タブレット、電話に完全に対応しています。"
+      adopcao: "動物の養子縁組を奨励するランディングページ。PC、タブレット、電話に完全に対応しています。",
+      bookverse: "生成AI（Gemini）、サブスクリプション、コミュニティを備えた完全な書籍出版・閲覧プラットフォーム。Next.js 16、React 19、MySQLで開発。"
     },
     footer: { rights: "無断転載を禁じます。" }
   }
