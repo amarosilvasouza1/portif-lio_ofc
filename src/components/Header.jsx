@@ -1,5 +1,6 @@
 import React from 'react';
 import { useLanguage } from '../contexts/useLanguage';
+import Typewriter from 'typewriter-effect';
 
 const Header = () => {
   const { t, setLanguage, language } = useLanguage();
@@ -96,7 +97,14 @@ const Header = () => {
           color: 'var(--primary-color)',
           marginBottom: '2rem'
         }}>
-          {t.hero.title}
+          <Typewriter
+            options={{
+              strings: [t.hero.title, 'Full Stack Developer', 'React Specialist', 'Creative Coder'],
+              autoStart: true,
+              loop: true,
+              deleteSpeed: 50,
+            }}
+          />
         </h2>
         
         <div style={{ 

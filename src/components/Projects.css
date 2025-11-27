@@ -15,17 +15,61 @@
     gap: 1.5rem;
   }
   
-  .project-card {
-    padding: 1.5rem;
-  }
+
 }
 
 .project-card {
-  padding: 2rem;
+  padding: 0;
   transition: transform 0.3s ease;
   cursor: pointer;
   display: block;
   text-decoration: none;
+  overflow: hidden;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.project-image-placeholder {
+  height: 160px;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+.view-project-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.project-card:hover .view-project-overlay {
+  opacity: 1;
+}
+
+.view-project-overlay span {
+  color: white;
+  font-weight: 600;
+  padding: 8px 16px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(4px);
+}
+
+.project-content {
+  padding: 1.5rem;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
 }
 
 .project-card:hover {
